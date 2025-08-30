@@ -1,0 +1,22 @@
+/* General Styling */
+body {
+  font-family: "Times New Roman", serif;
+  font-style: italic;
+  margin: 0;
+  line-height: 1.6;
+  background: lightblue;   /* Changed */
+  color: white;
+}
+
+/* Header */
+header {
+  background: lightblue;   /* Changed */
+  color: white;
+  padding: 30px 0;
+  text-align: center;
+}
+
+/* Navigation */
+nav {
+  background: rgba(0, 0, 139, 0.7);
+}
